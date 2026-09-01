@@ -99,7 +99,7 @@
 # Answer the following question:
 #
 # One Git concept I understand better now is:
-
+Pushing and pulling and what a respoitory really is also I have to push after committing
 
 
 # Save the file again, then repeat:
