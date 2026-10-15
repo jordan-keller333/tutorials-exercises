@@ -537,7 +537,7 @@ Hint:
 
 ```{r}
 chinstrap_stuff <- penguins |>
-  filter(species == "Chinstrap") |>
+  filter(species = "Chinstrap") |>
   select(flipper_length_mm, body_mass_g) |>
   mutate(
     fm_ratio = flipper_length_mm / body_mass_g,
